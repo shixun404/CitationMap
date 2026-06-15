@@ -38,6 +38,8 @@
 
 &#128073; Due to personal reasons, I am no longer able to run `CitationMap` for you if you run into problems. Apologies.
 
+&#9888;&#65039; I was told that recently Google Scholar has updated the traffic-blocking and made CitationMap much less reliable than before. Pull requests to fix this issue are very welcome!
+
 <br>
 
 I am [Chen Liu](https://chenliu-1996.github.io/), a Computer Science PhD Candidate at Yale University.
