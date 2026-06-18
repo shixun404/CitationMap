@@ -1,0 +1,142 @@
+citing_paper
+ A Comparison of OFDM Techniques in Massive MIMO on Data Throughput and Spectral Efficiency in Digital Wireless Communication Systems
+ A Tale of Many Networks: Splitting and Merging of Chord-like Overlays in Partitioned Networks
+ An Idleness-and Failure-Tolerant Pipeline Broadcast Protocol for MPI
+ An efficient open-source design and implementation framework for non-quantized CNNs on FPGAs
+ Analyzing the Impact of Kernel Fusion on GPU Tensor Operation Performance: A Systematic Performance Study
+ Beyond compensation: A holistic approach to employee retention in the era of remote work and technological change
+ Deep Learning-Based 30-Day Mortality Prediction in Critically Ill Bone and Bone Marrow Metastasis Patients: A Multicenter Retrospective Cohort Study
+ Fundamental Blocks for Establishing Secure and Scalable Continual Learning within Contemporary AI Systems
+ GEMM-ArchProfiler: A simulation framework for hardware-level profiling and performance analysis of General Matrix Multiplication in real CNN workloads on …
+ Hierarchical Deep Learning Model for Identifying Similar Targets in UAV Imagery
+ Improving K-Means Clustering: A Comparative Study of Parallelized Version of Modified K-Means Algorithm for Clustering of Satellite Images
+ New techniques for the Reliability Evaluation of AI-oriented Hardware Accelerators
+" On Bayesian Methods for Black-Box Optimization: Efficiency, Adaptation and Reliability"
+ The prediction of the resistant starch production using transformer-based deep learning models
+ Verwendungsnachweis DaREXA-F Teil II
+" What to Support when You're Compressing: The State of Practice, Gaps, and Opportunities for Scientific Data Compression"
+ 面向飞腾处理器平台的快速卷积算法优化
+A Federated Learning-based Aflatoxin M1 Prediction Model Under a Data Enhancement Strategy
+A Memory-Efficient and Computation-Balanced Lossy Compressor on Wafer-Scale Engine
+A Perpetual Compression Scheme for Delay Tolerant Communication
+A greedy consensus-based approach to distributed job selection: toward fully-decentralized workload management system
+A hybrid PCA-PR-Seq2Seq-Adam-LSTM framework for time-series power outage prediction
+A survey on error-bounded lossy compression for scientific datasets
+AI-optimized GRU-based self-attention model for predictive diabetes staging in IoT healthcare 5.0
+Adaptive soft error protection for neural network processing
+ApproxABFT: Approximate Algorithm-Based Fault Tolerance for Neural Network Processing
+Architectural-Aware Performance Optimization: From the Foundational Math Library to Cutting-Edge Applications
+AttnBoost: Retail Supply Chain Sales Insights via Gradient Boosting Perspective
+Attn‐BiGRU: Angular‐aware attention with curriculum learning for adaptive beamforming
+Automatic Parameter Tuning for CUTLASS Matrix Multiplication Based on Multi-Task Learning with DSSM
+BMQSim: Overcoming Memory Constraints in Quantum Circuit Simulation with a High-Fidelity Compression Framework
+Beating vDSP: A 138 GFLOPS radix-8 Stockham FFT on Apple Silicon via two-tier register-threadgroup memory decomposition
+Benchmarking Cutting-Edge Scientific Error-Bounded Lossy Compressors on Correlation-Based Rate-Distortion
+Boosting scientific error-bounded lossy compression through optimized synergistic lossy-lossless orchestration
+CCL-D: A High-Precision Diagnostic System for Slow and Hang Anomalies in Large-Scale Model Training
+COCCL: A Collective Communication Library Supporting Easy Integration and Configuration of Customized Compression for Scalable LLM Training
+CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+Checkpointing fine-tuning for accelerating seismic applications in GPUs
+Classical simulation of quantum circuits: Parallel environments and benchmark
+Data reuse and locality optimization method based on GEMM
+Decentralized learning based on gradient coding with compressed communication
+DeepCQ: General-Purpose Deep-Surrogate Framework for Lossy Compression Quality Prediction
+Delta-Attention-Based Deep Learning Model for Diabetes Prediction in Consumer Health Monitoring Systems
+Design and Implementation of High Reliability Heterogeneous Software Architecture Based on SoC Chip
+Dgro: diameter-guided ring optimization for integrated research infrastructure membership
+EXaCTz: Guaranteed Extremum Graph and Contour Tree Preservation for Distributed-and GPU-Parallel Lossy Compression
+Early Prediction of Pathologic Complete Response to Neoadjuvant Chemotherapy in Breast Cancer Based on Multimodal Ultrasound and Pathological Image
+Enabling Homomorphic Analytical Operations on Compressed Scientific Data with Multi-stage Decompression
+Enabling the Use of Approximate Memories in Quantized Large Language Models (LLMs): Dealing with Errors on the Scaling Factors
+Error bounded compression for weather and climate applications
+Error resilient transformers: A novel soft error vulnerability guided approach to error checking and suppression
+Error-controlled progressive retrieval of scientific data under derivable quantities of interest
+Extreme Error-bounded Compression of Scientific Data via Temporal Graph Autoencoders
+FLARE: A Dataflow-Aware and Scalable Hardware Architecture for Neural-Hybrid Scientific Lossy Compression
+FORS: fault-adaptive optimized routing and scheduling for DAQ networks
+FSFDLLM: Financial Statement Fraud Detection Aided by Large Language Models
+FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+FZModules: A Heterogeneous Computing Framework for Customizable Scientific Data Compression Pipelines
+From 8 seconds to 370ms: Kernel-fused SAR imaging on Apple Silicon via single-dispatch FFT pipelines
+Ft k-means: A high-performance k-means on gpu with fault tolerance
+Ft-blas: A fault tolerant high performance blas implementation on x86 cpus
+Ft-gemm: A fault tolerant high performance gemm implementation on x86 cpus
+GPU Lossy Compression for HPC Can Be Versatile and Ultra-Fast
+Graphcomp: Extreme error-bounded compression of scientific data via temporal graph autoencoders
+Gwlz: A group-wise learning-based lossy compression framework for scientific data
+HALO: Hybrid Systolic Arrays via Logical Partitioning for Acceleration of Complex-Valued Neural Networks
+High speed simulation methods for multimode optical devices
+IPComp: Interpolation Based Progressive Lossy Compression for Scientific Applications
+Impact of MAC Unit Design Architectures and Their Applications in Modern Computing: An In-Depth Review
+ImplicitTerrainV2: Wavelet-Guided Spatially Adaptive Neural Terrain Representation
+Improving the Efficiency of Interpolation-based Scientific Data Compressors with Adaptive Quantization Index Prediction
+K-spin ising model for combinatorial optimizations over graphs: A reinforcement learning approach
+LLM Agents for Interactive Workflow Provenance: Reference Architecture and Evaluation Methodology
+LLM-IARE: An Input-Aware Resilience Estimation Methodology for LLMs under Hardware Transient Faults
+LLMComp: A Language Modeling Paradigm for Error-Bounded Scientific Data Compression
+LLMComp: A Language Modeling Paradigm for Error-Bounded Scientific Data Compression (Technical Report)
+Lightweight AI-Enhanced Intrusion Detection System for Zero-Day Threat Detection in Consumer Electronics Devices
+Lightweight Algorithm-Based Fault Tolerance (ABFT) for Resilient Machine Learning Systems
+Lightweight CNN-Based Artifact Reduction for Scientific Error-bounded Lossy Compression
+Long-Term Prediction of Yarn Quality Characteristics Based on Neural Networks and Transfer Learning
+Lossy Compression of Scientific Data: Applications Constrains and Requirements
+Lundisim: Model Meshes for Flow Simulation and Scientific Data Compression Benchmarks
+MGPU-FI: A Fault Injection Framework for Reliability Analysis of Multi-GPU System
+MambaWDC: Efficient Weather Data Compression via Selective State Space Model
+MemSens: Significantly Reducing Memory Overhead in Adjoint Sensitivity Analysis Using Novel Error-Bounded Lossy Compression
+Meteora: Multiple-tasks embedded lora for large language models
+Minimized Mainlobe Width Beamforming Based on Sparse Optimization
+Multi-fidelity Bayesian optimization with across-task transferable max-value entropy search
+NeurLZ: An Online Neural Learning-Based Method to Enhance Scientific Lossy Compression
+Not All Errors Are Equal: A Systematic Study of Error Propagation in Large Language Model Inference
+Optimization and Learning Algorithms for Classical and Quantum Signal Processing
+PRISM: An Efficient GPU-Based Lossy Compression Framework for Progressive Data Retrieval with Multi-Level Interpolation
+Parallelized 0/1 Knapsack Algorithm Optimization in CPU-GPU-Based Heterogeneous System with Algorithm-based Fault Tolerance
+Prediction model for compressive strength of high-performance concrete based on feature Tokenizer transformer and integrated optimization mechanisms
+Pushing the limits of GPU lossy compression: A hierarchical delta approach
+QPET: A Versatile and Portable Quantity-of-Interest-Preservation Framework for Error-Bounded Lossy Compression
+RNN beamforming optimizer for rate-splitting multiple access and cell-free massive MIMO
+RetryTrigger: intelligent inference duplication for enhancing LLM resilience to hardware transient faults
+RetryTrigger: 面向硬件瞬态故障的大语言模型智能推理重试容错方法
+SCORPIO: A Parallel I/O library for Exascale Earth System Models
+SEVI: Silent Data Corruption of Vector Instructions in Hyper-Scale Datacenters
+SSFFT: Energy-Efficient Selective Scaling for Fast Fourier Transform in Embedded GPUs
+STZ: A High Quality and High Speed Streaming Lossy Compression Framework for Scientific Data
+SWARM+: Scalable and Resilient Multi-Agent Consensus for Fully-Decentralized Data-Aware Workload Management
+SWARM: Reimagining scientific workflow management systems in a distributed world
+"Scalable Frameworks for Evolving Graph Analytics: Acceleration, Indexing, and Sampling Through Temporal Reuse"
+Semi-Amortized Encoder-Decoder Network for Beamforming Over Sparse Large-Scale MIMO Channels
+Shifting between compute and memory bounds: A compression-enabled roofline model
+Smart scheduling and routing for data acquisition networks
+Summary Statistics of Large-scale Model Outputs for Observation-corrected Outputs
+Synergistic Deep Learning Framework for Forecasting Power Outages
+Szops: Scalar operations for error-bounded lossy compressor for scientific data
+Task-Adaptive Scientific Error-Bounded Lossy Compression
+The (r) evolution of scientific workflows in the agentic ai era: Towards autonomous science
+Tight Lower Bounds on The Single-Error Detection Threshold for Analog Error-Correcting Codes
+Time-varying Vector Field Compression with Preserved Critical Point Trajectories
+TopcDB: Two-Phase Compactable Lossy Compression for Timeseries Databases
+Toward Efficient and Scalable Scientific Data Management through Quality-oriented Data Compression
+Transformer-based Scalable Beamforming Optimization via Deep Residual Learning
+Tspsz: An efficient parallel error-bounded lossy compressor for topological skeleton preservation
+Turbofft: Co-designed high-performance and fault-tolerant fast fourier transform on gpus
+Turbofno: High-performance fourier neural operator with fused fft-gemm-ifft on gpu
+UTOPIA: Unlearnable Tabular Data via Decoupled Shortcut Embedding
+Unsupervised Incremental Learning Using Confidence-Based Pseudo-Labels
+"VEUGM: Verifiable, Efficient and Universal GPU Performance Measurement in the Cloud"
+Variable rate neural compression for sparse detector data
+What to Support When You're Compressing
+What to Support When You're Compressing: The State of Practice Gaps and Opportunities for Scientific Data Compression
+ZCCL: Significantly improving collective communication with error-bounded lossy compression
+[BOOK][B] GPU-Accelerated Error-Bounded Lossy Compression for Scientific Data Toward Exascale Computing
+[BOOK][B] ZCCL: Advancing Exascale Collective Communications with Co-Designed Compression
+[CITATION][C] Session Summary Podcast: Session 15: Machine Learning: Methods
+"[CITATION][C] Session Summary Podcast: Session 17: Anomaly Detection, Failure Management, and Resilience 1"
+[CITATION][C] Session Summary Podcast: Session 33: Compression and Data Reduction 2
+cuhpx: Gpu-accelerated differentiable spherical harmonic transforms on healpix grids
+ghzccl: Advancing gpu-aware collective communications with homomorphic compression
+gzccl: Compression-accelerated collective communication framework for gpu clusters
+hzccl: Accelerating collective communication with co-designed homomorphic compression
+lsCOMP: Efficient Light Source Compression
+{FlexPipe}: Maximizing training efficiency for transformer-based models with {Variable-Length} inputs
+面向大规模 DNN 训练场景的容错技术综述.

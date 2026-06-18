@@ -1,0 +1,240 @@
+citing_paper,cited_paper
+ A Comparison of OFDM Techniques in Massive MIMO on Data Throughput and Spectral Efficiency in Digital Wireless Communication Systems,Turbofft: Co-designed high-performance and fault-tolerant fast fourier transform on gpus
+ A Tale of Many Networks: Splitting and Merging of Chord-like Overlays in Partitioned Networks,Dgro: diameter-guided ring optimization for integrated research infrastructure membership
+ An Idleness-and Failure-Tolerant Pipeline Broadcast Protocol for MPI,FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+ An efficient open-source design and implementation framework for non-quantized CNNs on FPGAs,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+ Analyzing the Impact of Kernel Fusion on GPU Tensor Operation Performance: A Systematic Performance Study,Turbofft: A high-performance fast fourier transform with fault tolerance on gpu
+ Beyond compensation: A holistic approach to employee retention in the era of remote work and technological change,SWARM: Reimagining scientific workflow management systems in a distributed world
+ Deep Learning-Based 30-Day Mortality Prediction in Critically Ill Bone and Bone Marrow Metastasis Patients: A Multicenter Retrospective Cohort Study,FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+ Fundamental Blocks for Establishing Secure and Scalable Continual Learning within Contemporary AI Systems,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+ GEMM-ArchProfiler: A simulation framework for hardware-level profiling and performance analysis of General Matrix Multiplication in real CNN workloads on …,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+ Hierarchical Deep Learning Model for Identifying Similar Targets in UAV Imagery,FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+ Improving K-Means Clustering: A Comparative Study of Parallelized Version of Modified K-Means Algorithm for Clustering of Satellite Images,Turbofft: A high-performance fast fourier transform with fault tolerance on gpu
+ New techniques for the Reliability Evaluation of AI-oriented Hardware Accelerators,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+" On Bayesian Methods for Black-Box Optimization: Efficiency, Adaptation and Reliability",A curriculum learning approach to optimization with application to downlink beamforming
+ The prediction of the resistant starch production using transformer-based deep learning models,FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+ Verwendungsnachweis DaREXA-F Teil II,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+" What to Support when You're Compressing: The State of Practice, Gaps, and Opportunities for Scientific Data Compression",Cliz: Optimizing lossy compression for climate datasets with adaptive fine-tuned data prediction
+ 面向飞腾处理器平台的快速卷积算法优化,FT-GEMM: A Fault Tolerant High Performance GEMM Implementation on x86 CPUs
+A Federated Learning-based Aflatoxin M1 Prediction Model Under a Data Enhancement Strategy,FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+A Memory-Efficient and Computation-Balanced Lossy Compressor on Wafer-Scale Engine,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+A Perpetual Compression Scheme for Delay Tolerant Communication,Cliz: Optimizing lossy compression for climate datasets with adaptive fine-tuned data prediction
+A greedy consensus-based approach to distributed job selection: toward fully-decentralized workload management system,Dgro: diameter-guided ring optimization for integrated research infrastructure membership
+A hybrid PCA-PR-Seq2Seq-Adam-LSTM framework for time-series power outage prediction,A curriculum learning approach to optimization with application to downlink beamforming
+A survey on error-bounded lossy compression for scientific datasets,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+A survey on error-bounded lossy compression for scientific datasets,Cliz: Optimizing lossy compression for climate datasets with adaptive fine-tuned data prediction
+A survey on error-bounded lossy compression for scientific datasets,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+AI-optimized GRU-based self-attention model for predictive diabetes staging in IoT healthcare 5.0,FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+Adaptive soft error protection for neural network processing,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+ApproxABFT: Approximate Algorithm-Based Fault Tolerance for Neural Network Processing,Turbofft: A high-performance fast fourier transform with fault tolerance on gpu
+ApproxABFT: Approximate Algorithm-Based Fault Tolerance for Neural Network Processing,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+Architectural-Aware Performance Optimization: From the Foundational Math Library to Cutting-Edge Applications,FT-GEMM: A Fault Tolerant High Performance GEMM Implementation on x86 CPUs
+Architectural-Aware Performance Optimization: From the Foundational Math Library to Cutting-Edge Applications,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+AttnBoost: Retail Supply Chain Sales Insights via Gradient Boosting Perspective,FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+Attn‐BiGRU: Angular‐aware attention with curriculum learning for adaptive beamforming,A curriculum learning approach to optimization with application to downlink beamforming
+Automatic Parameter Tuning for CUTLASS Matrix Multiplication Based on Multi-Task Learning with DSSM,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+BMQSim: Overcoming Memory Constraints in Quantum Circuit Simulation with a High-Fidelity Compression Framework,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+Beating vDSP: A 138 GFLOPS radix-8 Stockham FFT on Apple Silicon via two-tier register-threadgroup memory decomposition,Turbofft: Co-designed high-performance and fault-tolerant fast fourier transform on gpus
+Benchmarking Cutting-Edge Scientific Error-Bounded Lossy Compressors on Correlation-Based Rate-Distortion,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Boosting scientific error-bounded lossy compression through optimized synergistic lossy-lossless orchestration,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+Boosting scientific error-bounded lossy compression through optimized synergistic lossy-lossless orchestration,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+CCL-D: A High-Precision Diagnostic System for Slow and Hang Anomalies in Large-Scale Model Training,FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+COCCL: A Collective Communication Library Supporting Easy Integration and Configuration of Customized Compression for Scalable LLM Training,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Checkpointing fine-tuning for accelerating seismic applications in GPUs,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+Classical simulation of quantum circuits: Parallel environments and benchmark,Stationary Deep Reinforcement Learning with Quantum K-Spin Hamiltonian Regularization
+Data reuse and locality optimization method based on GEMM,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+Decentralized learning based on gradient coding with compressed communication,A curriculum learning approach to optimization with application to downlink beamforming
+DeepCQ: General-Purpose Deep-Surrogate Framework for Lossy Compression Quality Prediction,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Delta-Attention-Based Deep Learning Model for Diabetes Prediction in Consumer Health Monitoring Systems,FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+Design and Implementation of High Reliability Heterogeneous Software Architecture Based on SoC Chip,Boosting scientific error-bounded lossy compression through optimized synergistic lossy-lossless orchestration
+Dgro: diameter-guided ring optimization for integrated research infrastructure membership,FT K-means: A High-Performance K-means on GPU with Fault Tolerance
+Dgro: diameter-guided ring optimization for integrated research infrastructure membership,Stationary Deep Reinforcement Learning with Quantum K-Spin Hamiltonian Regularization
+Dgro: diameter-guided ring optimization for integrated research infrastructure membership,A curriculum learning approach to optimization with application to downlink beamforming
+Dgro: diameter-guided ring optimization for integrated research infrastructure membership,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+Dgro: diameter-guided ring optimization for integrated research infrastructure membership,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Dgro: diameter-guided ring optimization for integrated research infrastructure membership,Downlink beamforming optimization via deep learning
+Dgro: diameter-guided ring optimization for integrated research infrastructure membership,Cliz: Optimizing lossy compression for climate datasets with adaptive fine-tuned data prediction
+Dgro: diameter-guided ring optimization for integrated research infrastructure membership,Exploring wavelet transform usages for error-bounded scientific data compression
+Dgro: diameter-guided ring optimization for integrated research infrastructure membership,FT-GEMM: A Fault Tolerant High Performance GEMM Implementation on x86 CPUs
+Dgro: diameter-guided ring optimization for integrated research infrastructure membership,Turbofft: A high-performance fast fourier transform with fault tolerance on gpu
+Dgro: diameter-guided ring optimization for integrated research infrastructure membership,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+EXaCTz: Guaranteed Extremum Graph and Contour Tree Preservation for Distributed-and GPU-Parallel Lossy Compression,Boosting scientific error-bounded lossy compression through optimized synergistic lossy-lossless orchestration
+EXaCTz: Guaranteed Extremum Graph and Contour Tree Preservation for Distributed-and GPU-Parallel Lossy Compression,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+Early Prediction of Pathologic Complete Response to Neoadjuvant Chemotherapy in Breast Cancer Based on Multimodal Ultrasound and Pathological Image,FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+Enabling Homomorphic Analytical Operations on Compressed Scientific Data with Multi-stage Decompression,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Enabling the Use of Approximate Memories in Quantized Large Language Models (LLMs): Dealing with Errors on the Scaling Factors,FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+Error bounded compression for weather and climate applications,Cliz: Optimizing lossy compression for climate datasets with adaptive fine-tuned data prediction
+Error resilient transformers: A novel soft error vulnerability guided approach to error checking and suppression,FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+Error-controlled progressive retrieval of scientific data under derivable quantities of interest,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Extreme Error-bounded Compression of Scientific Data via Temporal Graph Autoencoders,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+FLARE: A Dataflow-Aware and Scalable Hardware Architecture for Neural-Hybrid Scientific Lossy Compression,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+FORS: fault-adaptive optimized routing and scheduling for DAQ networks,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+FSFDLLM: Financial Statement Fraud Detection Aided by Large Language Models,FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention,Turbofft: A high-performance fast fourier transform with fault tolerance on gpu
+FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention,FT K-means: A High-Performance K-means on GPU with Fault Tolerance
+FZModules: A Heterogeneous Computing Framework for Customizable Scientific Data Compression Pipelines,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+FZModules: A Heterogeneous Computing Framework for Customizable Scientific Data Compression Pipelines,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+From 8 seconds to 370ms: Kernel-fused SAR imaging on Apple Silicon via single-dispatch FFT pipelines,TurboFNO: High-Performance Fourier Neural Operator with Fused FFT-GEMM-iFFT on GPU
+From 8 seconds to 370ms: Kernel-fused SAR imaging on Apple Silicon via single-dispatch FFT pipelines,Turbofft: Co-designed high-performance and fault-tolerant fast fourier transform on gpus
+Ft k-means: A high-performance k-means on gpu with fault tolerance,FT-GEMM: A Fault Tolerant High Performance GEMM Implementation on x86 CPUs
+Ft k-means: A high-performance k-means on gpu with fault tolerance,Cliz: Optimizing lossy compression for climate datasets with adaptive fine-tuned data prediction
+Ft k-means: A high-performance k-means on gpu with fault tolerance,Exploring wavelet transform usages for error-bounded scientific data compression
+Ft k-means: A high-performance k-means on gpu with fault tolerance,Turbofft: A high-performance fast fourier transform with fault tolerance on gpu
+Ft k-means: A high-performance k-means on gpu with fault tolerance,Stationary Deep Reinforcement Learning with Quantum K-Spin Hamiltonian Regularization
+Ft k-means: A high-performance k-means on gpu with fault tolerance,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+Ft k-means: A high-performance k-means on gpu with fault tolerance,Downlink beamforming optimization via deep learning
+Ft k-means: A high-performance k-means on gpu with fault tolerance,A curriculum learning approach to optimization with application to downlink beamforming
+Ft k-means: A high-performance k-means on gpu with fault tolerance,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+Ft k-means: A high-performance k-means on gpu with fault tolerance,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Ft-blas: A fault tolerant high performance blas implementation on x86 cpus,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+Ft-blas: A fault tolerant high performance blas implementation on x86 cpus,FT-GEMM: A Fault Tolerant High Performance GEMM Implementation on x86 CPUs
+Ft-gemm: A fault tolerant high performance gemm implementation on x86 cpus,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+GPU Lossy Compression for HPC Can Be Versatile and Ultra-Fast,Cliz: Optimizing lossy compression for climate datasets with adaptive fine-tuned data prediction
+GPU Lossy Compression for HPC Can Be Versatile and Ultra-Fast,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+Graphcomp: Extreme error-bounded compression of scientific data via temporal graph autoencoders,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Gwlz: A group-wise learning-based lossy compression framework for scientific data,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+HALO: Hybrid Systolic Arrays via Logical Partitioning for Acceleration of Complex-Valued Neural Networks,TurboFNO: High-Performance Fourier Neural Operator with Fused FFT-GEMM-iFFT on GPU
+High speed simulation methods for multimode optical devices,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+IPComp: Interpolation Based Progressive Lossy Compression for Scientific Applications,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+IPComp: Interpolation Based Progressive Lossy Compression for Scientific Applications,Exploring wavelet transform usages for error-bounded scientific data compression
+Impact of MAC Unit Design Architectures and Their Applications in Modern Computing: An In-Depth Review,Turbofft: Co-designed high-performance and fault-tolerant fast fourier transform on gpus
+ImplicitTerrainV2: Wavelet-Guided Spatially Adaptive Neural Terrain Representation,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Improving the Efficiency of Interpolation-based Scientific Data Compressors with Adaptive Quantization Index Prediction,Cliz: Optimizing lossy compression for climate datasets with adaptive fine-tuned data prediction
+Improving the Efficiency of Interpolation-based Scientific Data Compressors with Adaptive Quantization Index Prediction,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+Improving the Efficiency of Interpolation-based Scientific Data Compressors with Adaptive Quantization Index Prediction,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+K-spin ising model for combinatorial optimizations over graphs: A reinforcement learning approach,Stationary Deep Reinforcement Learning with Quantum K-Spin Hamiltonian Regularization
+LLM Agents for Interactive Workflow Provenance: Reference Architecture and Evaluation Methodology,SWARM: Reimagining scientific workflow management systems in a distributed world
+LLM-IARE: An Input-Aware Resilience Estimation Methodology for LLMs under Hardware Transient Faults,FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+LLMComp: A Language Modeling Paradigm for Error-Bounded Scientific Data Compression,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+LLMComp: A Language Modeling Paradigm for Error-Bounded Scientific Data Compression (Technical Report),High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Lightweight AI-Enhanced Intrusion Detection System for Zero-Day Threat Detection in Consumer Electronics Devices,FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+Lightweight Algorithm-Based Fault Tolerance (ABFT) for Resilient Machine Learning Systems,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+Lightweight CNN-Based Artifact Reduction for Scientific Error-bounded Lossy Compression,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Long-Term Prediction of Yarn Quality Characteristics Based on Neural Networks and Transfer Learning,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Lossy Compression of Scientific Data: Applications Constrains and Requirements,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Lossy Compression of Scientific Data: Applications Constrains and Requirements,Cliz: Optimizing lossy compression for climate datasets with adaptive fine-tuned data prediction
+Lundisim: Model Meshes for Flow Simulation and Scientific Data Compression Benchmarks,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+MGPU-FI: A Fault Injection Framework for Reliability Analysis of Multi-GPU System,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+MambaWDC: Efficient Weather Data Compression via Selective State Space Model,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+MambaWDC: Efficient Weather Data Compression via Selective State Space Model,Cliz: Optimizing lossy compression for climate datasets with adaptive fine-tuned data prediction
+MemSens: Significantly Reducing Memory Overhead in Adjoint Sensitivity Analysis Using Novel Error-Bounded Lossy Compression,Exploring wavelet transform usages for error-bounded scientific data compression
+Meteora: Multiple-tasks embedded lora for large language models,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+Minimized Mainlobe Width Beamforming Based on Sparse Optimization,A curriculum learning approach to optimization with application to downlink beamforming
+Multi-fidelity Bayesian optimization with across-task transferable max-value entropy search,A curriculum learning approach to optimization with application to downlink beamforming
+NeurLZ: An Online Neural Learning-Based Method to Enhance Scientific Lossy Compression,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Not All Errors Are Equal: A Systematic Study of Error Propagation in Large Language Model Inference,FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+Optimization and Learning Algorithms for Classical and Quantum Signal Processing,A curriculum learning approach to optimization with application to downlink beamforming
+PRISM: An Efficient GPU-Based Lossy Compression Framework for Progressive Data Retrieval with Multi-Level Interpolation,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+PRISM: An Efficient GPU-Based Lossy Compression Framework for Progressive Data Retrieval with Multi-Level Interpolation,Boosting scientific error-bounded lossy compression through optimized synergistic lossy-lossless orchestration
+PRISM: An Efficient GPU-Based Lossy Compression Framework for Progressive Data Retrieval with Multi-Level Interpolation,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Parallelized 0/1 Knapsack Algorithm Optimization in CPU-GPU-Based Heterogeneous System with Algorithm-based Fault Tolerance,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+Prediction model for compressive strength of high-performance concrete based on feature Tokenizer transformer and integrated optimization mechanisms,FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+Pushing the limits of GPU lossy compression: A hierarchical delta approach,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+QPET: A Versatile and Portable Quantity-of-Interest-Preservation Framework for Error-Bounded Lossy Compression,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+RNN beamforming optimizer for rate-splitting multiple access and cell-free massive MIMO,A curriculum learning approach to optimization with application to downlink beamforming
+RetryTrigger: intelligent inference duplication for enhancing LLM resilience to hardware transient faults,FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+RetryTrigger: 面向硬件瞬态故障的大语言模型智能推理重试容错方法,FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+SCORPIO: A Parallel I/O library for Exascale Earth System Models,Cliz: Optimizing lossy compression for climate datasets with adaptive fine-tuned data prediction
+SEVI: Silent Data Corruption of Vector Instructions in Hyper-Scale Datacenters,Turbofft: Co-designed high-performance and fault-tolerant fast fourier transform on gpus
+SSFFT: Energy-Efficient Selective Scaling for Fast Fourier Transform in Embedded GPUs,Turbofft: A high-performance fast fourier transform with fault tolerance on gpu
+STZ: A High Quality and High Speed Streaming Lossy Compression Framework for Scientific Data,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+SWARM+: Scalable and Resilient Multi-Agent Consensus for Fully-Decentralized Data-Aware Workload Management,Dgro: diameter-guided ring optimization for integrated research infrastructure membership
+SWARM: Reimagining scientific workflow management systems in a distributed world,FT K-means: A High-Performance K-means on GPU with Fault Tolerance
+SWARM: Reimagining scientific workflow management systems in a distributed world,Stationary Deep Reinforcement Learning with Quantum K-Spin Hamiltonian Regularization
+SWARM: Reimagining scientific workflow management systems in a distributed world,A curriculum learning approach to optimization with application to downlink beamforming
+SWARM: Reimagining scientific workflow management systems in a distributed world,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+SWARM: Reimagining scientific workflow management systems in a distributed world,Dgro: diameter-guided ring optimization for integrated research infrastructure membership
+SWARM: Reimagining scientific workflow management systems in a distributed world,Downlink beamforming optimization via deep learning
+SWARM: Reimagining scientific workflow management systems in a distributed world,Turbofft: Co-designed high-performance and fault-tolerant fast fourier transform on gpus
+SWARM: Reimagining scientific workflow management systems in a distributed world,FT-GEMM: A Fault Tolerant High Performance GEMM Implementation on x86 CPUs
+SWARM: Reimagining scientific workflow management systems in a distributed world,Turbofft: A high-performance fast fourier transform with fault tolerance on gpu
+"Scalable Frameworks for Evolving Graph Analytics: Acceleration, Indexing, and Sampling Through Temporal Reuse",SWARM: Reimagining scientific workflow management systems in a distributed world
+"Scalable Frameworks for Evolving Graph Analytics: Acceleration, Indexing, and Sampling Through Temporal Reuse",CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+"Scalable Frameworks for Evolving Graph Analytics: Acceleration, Indexing, and Sampling Through Temporal Reuse",TurboFNO: High-Performance Fourier Neural Operator with Fused FFT-GEMM-iFFT on GPU
+"Scalable Frameworks for Evolving Graph Analytics: Acceleration, Indexing, and Sampling Through Temporal Reuse",FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+"Scalable Frameworks for Evolving Graph Analytics: Acceleration, Indexing, and Sampling Through Temporal Reuse",Boosting scientific error-bounded lossy compression through optimized synergistic lossy-lossless orchestration
+"Scalable Frameworks for Evolving Graph Analytics: Acceleration, Indexing, and Sampling Through Temporal Reuse",cuhpx: Gpu-accelerated differentiable spherical harmonic transforms on healpix grids
+"Scalable Frameworks for Evolving Graph Analytics: Acceleration, Indexing, and Sampling Through Temporal Reuse",FT K-means: A High-Performance K-means on GPU with Fault Tolerance
+"Scalable Frameworks for Evolving Graph Analytics: Acceleration, Indexing, and Sampling Through Temporal Reuse",Stationary Deep Reinforcement Learning with Quantum K-Spin Hamiltonian Regularization
+"Scalable Frameworks for Evolving Graph Analytics: Acceleration, Indexing, and Sampling Through Temporal Reuse",A curriculum learning approach to optimization with application to downlink beamforming
+"Scalable Frameworks for Evolving Graph Analytics: Acceleration, Indexing, and Sampling Through Temporal Reuse",Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+"Scalable Frameworks for Evolving Graph Analytics: Acceleration, Indexing, and Sampling Through Temporal Reuse",Dgro: diameter-guided ring optimization for integrated research infrastructure membership
+"Scalable Frameworks for Evolving Graph Analytics: Acceleration, Indexing, and Sampling Through Temporal Reuse",High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+"Scalable Frameworks for Evolving Graph Analytics: Acceleration, Indexing, and Sampling Through Temporal Reuse",Downlink beamforming optimization via deep learning
+"Scalable Frameworks for Evolving Graph Analytics: Acceleration, Indexing, and Sampling Through Temporal Reuse",Cliz: Optimizing lossy compression for climate datasets with adaptive fine-tuned data prediction
+"Scalable Frameworks for Evolving Graph Analytics: Acceleration, Indexing, and Sampling Through Temporal Reuse",Exploring wavelet transform usages for error-bounded scientific data compression
+"Scalable Frameworks for Evolving Graph Analytics: Acceleration, Indexing, and Sampling Through Temporal Reuse",FT-GEMM: A Fault Tolerant High Performance GEMM Implementation on x86 CPUs
+"Scalable Frameworks for Evolving Graph Analytics: Acceleration, Indexing, and Sampling Through Temporal Reuse",Turbofft: Co-designed high-performance and fault-tolerant fast fourier transform on gpus
+Semi-Amortized Encoder-Decoder Network for Beamforming Over Sparse Large-Scale MIMO Channels,A curriculum learning approach to optimization with application to downlink beamforming
+Shifting between compute and memory bounds: A compression-enabled roofline model,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Smart scheduling and routing for data acquisition networks,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+Summary Statistics of Large-scale Model Outputs for Observation-corrected Outputs,Cliz: Optimizing lossy compression for climate datasets with adaptive fine-tuned data prediction
+Synergistic Deep Learning Framework for Forecasting Power Outages,A curriculum learning approach to optimization with application to downlink beamforming
+Szops: Scalar operations for error-bounded lossy compressor for scientific data,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Szops: Scalar operations for error-bounded lossy compressor for scientific data,Exploring wavelet transform usages for error-bounded scientific data compression
+Szops: Scalar operations for error-bounded lossy compressor for scientific data,Cliz: Optimizing lossy compression for climate datasets with adaptive fine-tuned data prediction
+Task-Adaptive Scientific Error-Bounded Lossy Compression,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Task-Adaptive Scientific Error-Bounded Lossy Compression,Cliz: Optimizing lossy compression for climate datasets with adaptive fine-tuned data prediction
+The (r) evolution of scientific workflows in the agentic ai era: Towards autonomous science,SWARM: Reimagining scientific workflow management systems in a distributed world
+Tight Lower Bounds on The Single-Error Detection Threshold for Analog Error-Correcting Codes,FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+Time-varying Vector Field Compression with Preserved Critical Point Trajectories,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Time-varying Vector Field Compression with Preserved Critical Point Trajectories,Cliz: Optimizing lossy compression for climate datasets with adaptive fine-tuned data prediction
+Time-varying Vector Field Compression with Preserved Critical Point Trajectories,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+TopcDB: Two-Phase Compactable Lossy Compression for Timeseries Databases,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Toward Efficient and Scalable Scientific Data Management through Quality-oriented Data Compression,Cliz: Optimizing lossy compression for climate datasets with adaptive fine-tuned data prediction
+Toward Efficient and Scalable Scientific Data Management through Quality-oriented Data Compression,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+Toward Efficient and Scalable Scientific Data Management through Quality-oriented Data Compression,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Transformer-based Scalable Beamforming Optimization via Deep Residual Learning,A curriculum learning approach to optimization with application to downlink beamforming
+Tspsz: An efficient parallel error-bounded lossy compressor for topological skeleton preservation,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Turbofft: Co-designed high-performance and fault-tolerant fast fourier transform on gpus,Exploring wavelet transform usages for error-bounded scientific data compression
+Turbofft: Co-designed high-performance and fault-tolerant fast fourier transform on gpus,FT-GEMM: A Fault Tolerant High Performance GEMM Implementation on x86 CPUs
+Turbofft: Co-designed high-performance and fault-tolerant fast fourier transform on gpus,Cliz: Optimizing lossy compression for climate datasets with adaptive fine-tuned data prediction
+Turbofft: Co-designed high-performance and fault-tolerant fast fourier transform on gpus,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+Turbofft: Co-designed high-performance and fault-tolerant fast fourier transform on gpus,Stationary Deep Reinforcement Learning with Quantum K-Spin Hamiltonian Regularization
+Turbofft: Co-designed high-performance and fault-tolerant fast fourier transform on gpus,A curriculum learning approach to optimization with application to downlink beamforming
+Turbofft: Co-designed high-performance and fault-tolerant fast fourier transform on gpus,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+Turbofft: Co-designed high-performance and fault-tolerant fast fourier transform on gpus,FT K-means: A High-Performance K-means on GPU with Fault Tolerance
+Turbofft: Co-designed high-performance and fault-tolerant fast fourier transform on gpus,Dgro: diameter-guided ring optimization for integrated research infrastructure membership
+Turbofft: Co-designed high-performance and fault-tolerant fast fourier transform on gpus,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Turbofft: Co-designed high-performance and fault-tolerant fast fourier transform on gpus,Downlink beamforming optimization via deep learning
+Turbofno: High-performance fourier neural operator with fused fft-gemm-ifft on gpu,FT-GEMM: A Fault Tolerant High Performance GEMM Implementation on x86 CPUs
+Turbofno: High-performance fourier neural operator with fused fft-gemm-ifft on gpu,Turbofft: Co-designed high-performance and fault-tolerant fast fourier transform on gpus
+Turbofno: High-performance fourier neural operator with fused fft-gemm-ifft on gpu,Cliz: Optimizing lossy compression for climate datasets with adaptive fine-tuned data prediction
+Turbofno: High-performance fourier neural operator with fused fft-gemm-ifft on gpu,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+Turbofno: High-performance fourier neural operator with fused fft-gemm-ifft on gpu,FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+Turbofno: High-performance fourier neural operator with fused fft-gemm-ifft on gpu,Boosting scientific error-bounded lossy compression through optimized synergistic lossy-lossless orchestration
+Turbofno: High-performance fourier neural operator with fused fft-gemm-ifft on gpu,Stationary Deep Reinforcement Learning with Quantum K-Spin Hamiltonian Regularization
+Turbofno: High-performance fourier neural operator with fused fft-gemm-ifft on gpu,A curriculum learning approach to optimization with application to downlink beamforming
+Turbofno: High-performance fourier neural operator with fused fft-gemm-ifft on gpu,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+Turbofno: High-performance fourier neural operator with fused fft-gemm-ifft on gpu,FT K-means: A High-Performance K-means on GPU with Fault Tolerance
+Turbofno: High-performance fourier neural operator with fused fft-gemm-ifft on gpu,Dgro: diameter-guided ring optimization for integrated research infrastructure membership
+Turbofno: High-performance fourier neural operator with fused fft-gemm-ifft on gpu,Downlink beamforming optimization via deep learning
+Turbofno: High-performance fourier neural operator with fused fft-gemm-ifft on gpu,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+Turbofno: High-performance fourier neural operator with fused fft-gemm-ifft on gpu,Exploring wavelet transform usages for error-bounded scientific data compression
+UTOPIA: Unlearnable Tabular Data via Decoupled Shortcut Embedding,FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+Unsupervised Incremental Learning Using Confidence-Based Pseudo-Labels,FT K-means: A High-Performance K-means on GPU with Fault Tolerance
+"VEUGM: Verifiable, Efficient and Universal GPU Performance Measurement in the Cloud",Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+Variable rate neural compression for sparse detector data,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+What to Support When You're Compressing,Cliz: Optimizing lossy compression for climate datasets with adaptive fine-tuned data prediction
+What to Support When You're Compressing: The State of Practice Gaps and Opportunities for Scientific Data Compression,Cliz: Optimizing lossy compression for climate datasets with adaptive fine-tuned data prediction
+ZCCL: Significantly improving collective communication with error-bounded lossy compression,Exploring wavelet transform usages for error-bounded scientific data compression
+[BOOK][B] GPU-Accelerated Error-Bounded Lossy Compression for Scientific Data Toward Exascale Computing,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+[BOOK][B] ZCCL: Advancing Exascale Collective Communications with Co-Designed Compression,Exploring wavelet transform usages for error-bounded scientific data compression
+[BOOK][B] ZCCL: Advancing Exascale Collective Communications with Co-Designed Compression,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+[CITATION][C] Session Summary Podcast: Session 15: Machine Learning: Methods,TurboFNO: High-Performance Fourier Neural Operator with Fused FFT-GEMM-iFFT on GPU
+"[CITATION][C] Session Summary Podcast: Session 17: Anomaly Detection, Failure Management, and Resilience 1",FT-Transformer: Resilient and reliable transformer with end-to-end fault tolerant attention
+[CITATION][C] Session Summary Podcast: Session 33: Compression and Data Reduction 2,Boosting scientific error-bounded lossy compression through optimized synergistic lossy-lossless orchestration
+cuhpx: Gpu-accelerated differentiable spherical harmonic transforms on healpix grids,Boosting scientific error-bounded lossy compression through optimized synergistic lossy-lossless orchestration
+ghzccl: Advancing gpu-aware collective communications with homomorphic compression,Exploring wavelet transform usages for error-bounded scientific data compression
+ghzccl: Advancing gpu-aware collective communications with homomorphic compression,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+gzccl: Compression-accelerated collective communication framework for gpu clusters,High-performance effective scientific error-bounded lossy compression with auto-tuned multi-component interpolation
+gzccl: Compression-accelerated collective communication framework for gpu clusters,Exploring wavelet transform usages for error-bounded scientific data compression
+hzccl: Accelerating collective communication with co-designed homomorphic compression,Exploring wavelet transform usages for error-bounded scientific data compression
+lsCOMP: Efficient Light Source Compression,CUSZ-i: High-ratio scientific lossy compression on GPUs with optimized multi-level interpolation
+{FlexPipe}: Maximizing training efficiency for transformer-based models with {Variable-Length} inputs,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
+{FlexPipe}: Maximizing training efficiency for transformer-based models with {Variable-Length} inputs,FT K-means: A High-Performance K-means on GPU with Fault Tolerance
+{FlexPipe}: Maximizing training efficiency for transformer-based models with {Variable-Length} inputs,FT-GEMM: A Fault Tolerant High Performance GEMM Implementation on x86 CPUs
+{FlexPipe}: Maximizing training efficiency for transformer-based models with {Variable-Length} inputs,Turbofft: Co-designed high-performance and fault-tolerant fast fourier transform on gpus
+面向大规模 DNN 训练场景的容错技术综述.,Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs
