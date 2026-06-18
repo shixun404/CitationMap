@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "PowerShell(& \"C:\\\\Users\\\\SHIXUNWU\\\\miniconda3\\\\python.exe\" _show_missing.py 2>&1)",
+      "PowerShell(& \"C:\\\\Users\\\\SHIXUNWU\\\\miniconda3\\\\python.exe\" recover_missing.py 2>&1)",
+      "PowerShell(& \"C:\\\\Users\\\\SHIXUNWU\\\\miniconda3\\\\python.exe\" draw_map.py 2>&1)"
+    ]
+  }
+}

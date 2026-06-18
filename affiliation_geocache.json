@@ -1,0 +1,833 @@
+{
+  "Argonne National Laboratory": {
+    "lat": 41.709141,
+    "lon": -87.9786195,
+    "address": "Argonne National Laboratory, 9700, Cass Avenue, Lemont, DuPage County, Illinois, 60439, United States"
+  },
+  "Indiana University": {
+    "lat": 39.1802358,
+    "lon": -86.5093526,
+    "address": "Indiana University Bloomington, North Park Avenue, Bloomington, Monroe County, Indiana, 47408, United States"
+  },
+  "University of Iowa": {
+    "lat": 41.6311024,
+    "lon": -91.540752,
+    "address": "University of Iowa, South Riverside Drive, Iowa City, Johnson County, Iowa, 52246, United States"
+  },
+  "University of Chicago": {
+    "lat": 33.9695391,
+    "lon": -117.3485057,
+    "address": "Chicago Avenue, University, Riverside, Riverside County, California, 92507, United States"
+  },
+  "University of Kentucky": {
+    "lat": 38.0266291,
+    "lon": -84.5047222,
+    "address": "University of Kentucky, 101, Euclid Avenue, Academic Core, University of Kentucky, Lexington, Fayette County, Kentucky, 40506, United States"
+  },
+  "Columbia University": {
+    "lat": 40.8077507,
+    "lon": -73.9624901,
+    "address": "Columbia University, College Walk, Morningside Heights, Manhattan Community Board 9, Manhattan, New York County, New York, 10027, United States"
+  },
+  "University of Houston": {
+    "lat": 29.7207902,
+    "lon": -95.3440627,
+    "address": "University of Houston, 4800, Calhoun Road, University Oaks, MacGregor, Houston, Harris County, Texas, 77004, United States"
+  },
+  "Institute of Computing Technology, Chinese Academy of Sciences": {
+    "lat": 34.6988529,
+    "lon": 135.1936779,
+    "address": "神戸情報大学院大学, 生田北１０号線, 加納町三丁目, 中央区, 神戸市, 兵庫県, 651-0093, 日本"
+  },
+  "The First Affiliated Hospital of Xinjiang Medical University": {
+    "lat": 43.8379418,
+    "lon": 87.5794461,
+    "address": "新疆医科大学第一附属医院 شىنجاڭ تېببىي ئۇنىۋېرسىتېتىنىڭ تۇنجى تارماق دوختۇرخانىسى, 府友巷, 府友路社区, 鲤鱼山街道, 新市区 يېڭىشەھەر رايونى, 乌鲁木齐市 ئۈرۈمچى, 新疆维吾尔自治区 شىنجاڭ ئۇيغۇر ئاپتونوم رايونی, 830000, 中国"
+  },
+  "Florida State University": {
+    "lat": 30.442216,
+    "lon": -84.297453,
+    "address": "Florida State University, 600, Learning Way, College Town, Tallahassee, Leon County, Florida, 32306, United States"
+  },
+  "University Center Nour Bachir": null,
+  "University of Belgrade": {
+    "lat": 44.8179654,
+    "lon": 20.4507765,
+    "address": "Универзитет уметности у Београду, 29, Косанчићев венац, Београд (Стари град), Београд, Градска општина Стари град, Град Београд, Централна Србија, 11000, Србија"
+  },
+  "South Dakota State University": {
+    "lat": 44.344449,
+    "lon": -96.7982371,
+    "address": "South Dakota State University, Sunnyview Drive, Sunnyview, Brookings Township, Brookings County, South Dakota, 57006, United States"
+  },
+  "Fasa University": {
+    "lat": 28.942323,
+    "lon": 53.6224968,
+    "address": "دانشگاه دولتی فسا, بلوار دانشجو, فسا, بخش مرکزی, شهرستان فسا, استان فارس, 74617-35781, ایران"
+  },
+  "Max Planck Computing and Data Facility": null,
+  "Temple University": {
+    "lat": 39.981188,
+    "lon": -75.1562828,
+    "address": "Temple University, 1801, North Broad Street, Stanton, North Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, 19122, United States"
+  },
+  "KTH Royal Institute of Technology": {
+    "lat": 59.2016758,
+    "lon": 17.6203201,
+    "address": "KTH - Royal Institute of Technology (Södertälje), 12, Kvarnbergagatan, Tälje, Södertälje, Södertälje kommun, Stockholms län, 151 36, Sverige"
+  },
+  "NVIDIA Corporation": {
+    "lat": 30.4801362,
+    "lon": -97.7931805,
+    "address": "NVIDIA Corporation, 11001, Lakeline Boulevard, Austin, Williamson County, Texas, 78717, United States"
+  },
+  "RIKEN Center for Computational Science": {
+    "lat": 34.6528736,
+    "lon": 135.2207474,
+    "address": "理化学研究所 計算科学研究センター, 港島４４号線, 港島南町七丁目, 中央区, 神戸市, 兵庫県, 650-0047, 日本"
+  },
+  "Jiangnan University, Wuxi, China": {
+    "lat": 31.4851219,
+    "lon": 120.2673352,
+    "address": "江南大学, 华山路, 雪浪街道, 滨湖区, 无锡市, 江苏省, 214000, 中国"
+  },
+  "University of California, Riverside": {
+    "lat": 33.9702033,
+    "lon": -117.3320289,
+    "address": "Riverside (University of California), 900, University Avenue, University, Riverside, Riverside County, California, 92521, United States"
+  },
+  "Asia University": {
+    "lat": 35.7059995,
+    "lon": 139.5345041,
+    "address": "亜細亜大学, 10, 境五丁目, 桜堤, 武蔵野市, 東京都, 180-8629, 日本"
+  },
+  "Hong Kong Metropolitan University": {
+    "lat": 22.316392,
+    "lon": 114.1802004,
+    "address": "香港都會大學 Hong Kong Metropolitan University, 培正道 Pui Ching Road, 窩打老道山 Waterloo Hill, 何文田 Ho Man Tin, 九龍城區 Kowloon City District, 九龍 Kowloon, 香港 Hong Kong, 中国"
+  },
+  "Nanyang Technological University": {
+    "lat": 1.3484104,
+    "lon": 103.6829332,
+    "address": "Nanyang Technological University, 50, Nanyang Avenue, Murai, Western Water Catchment, West Region, Singapore, 639798, Singapore"
+  },
+  "Pacific Northwest National Laboratory": {
+    "lat": 38.8851152,
+    "lon": -77.024906,
+    "address": "PNNL - Washington, DC Office, 901, D Street Southwest, Southwest Employment Area, Southwest Waterfront, Ward 6, Washington, District of Columbia, 20024, United States"
+  },
+  "King Abdullah University of Science and Technology": {
+    "lat": 22.3223754,
+    "lon": 39.1173835,
+    "address": "جامعة الملك عبد الله للعلوم و التقنية, Main Street, ثول, محافظة جدة, منطقة مكة المكرمة, 23955-6900, السعودية"
+  },
+  "Nasarawa State University": {
+    "lat": 8.8431624,
+    "lon": 7.9066259,
+    "address": "Nasarawa state university, A234, Keffi, Kokona, Nasarawa, Nigeria"
+  },
+  "Aristotle University of Thessaloniki": {
+    "lat": 40.6296719,
+    "lon": 22.9591469,
+    "address": "Αριστοτέλειο Πανεπιστήμιο, Αρμενοπούλου, Καμάρα, Θεσσαλονίκη, Δημοτική Ενότητα Θεσαλονίκης, Δήμος Θεσσαλονίκης, Μητροπολιτική Ενότητα Θεσσαλονίκης, Περιφέρεια Κεντρικής Μακεδονίας, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, 546 35, Ελλάς"
+  },
+  "Xinjiang Medical University": {
+    "lat": 43.8368402,
+    "lon": 87.5753263,
+    "address": "新疆医科大学 شىنجاڭ تېببىي ئۇنىۋېرسىتېتى, 北京中路, 北京路口社区, 北京路街道, 新市区 يېڭىشەھەر رايونى, 乌鲁木齐市 ئۈرۈمچى, 新疆维吾尔自治区 شىنجاڭ ئۇيغۇر ئاپتونوم رايونی, 830000, 中国"
+  },
+  "Ohio State University": {
+    "lat": 40.0056982,
+    "lon": -83.0286573,
+    "address": "The Ohio State University, 281, West Lane Avenue, Columbus, Sharon, Franklin County, Ohio, 43210, United States"
+  },
+  "Lawrence Livermore National Laboratory": {
+    "lat": 37.687781,
+    "lon": -121.7083093,
+    "address": "Lawrence Livermore National Laboratory, Westgate Drive, Livermore, Alameda County, California, 94605, United States"
+  },
+  "State Administration for Market Regulation, Huhehaote": null,
+  "University of Alberta": {
+    "lat": 53.52682,
+    "lon": -113.5244937,
+    "address": "University of Alberta, 92 Avenue NW, Windsor Park, Greater Strathcona, Edmonton, Alberta, T6G 1T5, Canada"
+  },
+  "The University of North Carolina at Chapel Hill": null,
+  "University of Southern California": {
+    "lat": 34.021869,
+    "lon": -118.2858579,
+    "address": "University of Southern California, Pardee Plaza, University Park, Exposition Park, Los Angeles, Los Angeles County, California, 90089, United States"
+  },
+  "Lawrence Berkeley National Laboratory": {
+    "lat": 37.8769588,
+    "lon": -122.2456303,
+    "address": "Lawrence Berkeley National Laboratory, Olympus Path, La Loma Park, Berkeley, Alameda County, California, 94720, United States"
+  },
+  "Oak Ridge National Laboratory": {
+    "lat": 35.9301332,
+    "lon": -84.3119307,
+    "address": "Oak Ridge National Laboratory, Oak Ridge, Roane County, East Tennessee, Tennessee, United States"
+  },
+  "Sylhet Agricultural University": {
+    "lat": 24.910879,
+    "lon": 91.9017884,
+    "address": "সিলেট কৃষি বিশ্ববিদ্যালয়, হাজার ফিট রোড, টিলাগড়, সিলেট, সিলেট সদর উপজেলা, সিলেট জেলা, সিলেট বিভাগ, 3100, বাংলাদেশ"
+  },
+  "Shanghai Jiao Tong University": {
+    "lat": 31.2008911,
+    "lon": 121.4283949,
+    "address": "上海交通大学（徐汇校区）, 1954, 华山路, 天平路街道, 徐汇区, 上海市, 200030, 中国"
+  },
+  "Oregon State University": {
+    "lat": 44.563056,
+    "lon": -123.2839234,
+    "address": "Oregon State University, 1500, Southwest Jefferson Way, Corvallis, Benton County, Oregon, 97331, United States"
+  },
+  "The Hong Kong Polytechnic University": {
+    "lat": 22.3044867,
+    "lon": 114.1796935,
+    "address": "香港理工大學 The Hong Kong Polytechnic University, 11, 育才道 Yuk Choi Road, 槍會山 Gun Club Hill, 尖沙咀東 East Tsim Sha Tsui, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国"
+  },
+  "University of South Florida": {
+    "lat": 28.0599999,
+    "lon": -82.4138362,
+    "address": "University of South Florida, 4202, East Fowler Avenue, Tampa, Hillsborough County, Florida, 33620, United States"
+  },
+  "The Ohio State University": {
+    "lat": 40.0056982,
+    "lon": -83.0286573,
+    "address": "The Ohio State University, 281, West Lane Avenue, Upper Arlington Historic District, Columbus, Sharon, Franklin County, Ohio, 43210, United States"
+  },
+  "University of Cambridge": {
+    "lat": 52.1890916,
+    "lon": 0.1212977,
+    "address": "Q025-7 Trumpington Road, Cambridge, 7, Trumpington Road, Trumpington, Cambridge, Cambridgeshire, Cambridgeshire and Peterborough, England, CB2 8AJ, United Kingdom"
+  },
+  "Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences": {
+    "lat": 39.907697,
+    "lon": 116.2440577,
+    "address": "中国科学院大学（玉泉路校区）, 19号甲, 玉泉路, 老山街道, 石景山区, 北京市, 100049, 中国"
+  },
+  "Chinese Academy of Sciences": {
+    "lat": 39.9093367,
+    "lon": 116.3297146,
+    "address": "中国科学院, 52, 三里河路, 月坛街道, 首都功能核心区, 西城区, 北京市, 100824, 中国"
+  },
+  "Jinan Inspur Data Technology Co Ltd": null,
+  "Southern Methodist University": {
+    "lat": 32.8418011,
+    "lon": -96.7815281,
+    "address": "Southern Methodist University, 6425, Bishop Boulevard, University Park, Dallas County, Texas, 75205, United States"
+  },
+  "Georgetown University": {
+    "lat": 38.9089393,
+    "lon": -77.0745796,
+    "address": "Georgetown University, 3700, O Street Northwest, Georgetown, Ward 2, Washington, District of Columbia, 20057, United States"
+  },
+  "Dawning Information Industry (Beijing) Co., Ltd": {
+    "lat": 30.145883,
+    "lon": 9.6959801,
+    "address": "مطار غدامس المدني, غدامس-درج, غدامس, نالوت, ليبيا"
+  },
+  "Ant Group": {
+    "lat": 49.2551481,
+    "lon": -122.9960492,
+    "address": "ANT Equipment Group, 4595, Canada Way, Brentwood, Burnaby, Metro Vancouver Regional District, British Columbia, V5G 4X7, Canada"
+  },
+  "Jilin University": {
+    "lat": 43.8206879,
+    "lon": 125.2711103,
+    "address": "吉林大学（前卫南区）, 2699, 前进大街, 科苑社区, 双德街道, 长春高新技术产业开发区, 朝阳区, 长春市, 绿园区, 吉林省, 130012, 中国"
+  },
+  "Texas A&M University": {
+    "lat": 30.6108618,
+    "lon": -96.3520606,
+    "address": "Texas A&M University, 400, Bizzell Street, College Station, Brazos County, Texas, 77843, United States"
+  },
+  "Korea University": {
+    "lat": 36.6108894,
+    "lon": 127.2934174,
+    "address": "고려대학교, 세종로, 조치원읍, 세종특별자치시, 30017, 대한민국"
+  },
+  "Shanghai Maritime University": {
+    "lat": 30.8769821,
+    "lon": 121.9002178,
+    "address": "上海海事大学（临港校区）, 1550, 海港大道, 南汇新城镇, 浦东新区, 上海市, 201306, 中国"
+  },
+  "Tsinghua University": {
+    "lat": 40.0022905,
+    "lon": 116.320963,
+    "address": "清华大学, 30, 双清路, 东升镇, 海淀区, 北京市, 100084, 中国"
+  },
+  "University of Science and Technology of China": {
+    "lat": 31.8403891,
+    "lon": 117.2501941,
+    "address": "中国科学技术大学（西校区）, 443, 黄山路, 外运大厦, 黄山路社区, 稻香村街道, 蜀山区, 合肥市, 安徽省, 230027, 中国"
+  },
+  "Federal Polytechnic": {
+    "lat": 55.7577773,
+    "lon": 37.6294848,
+    "address": "Политехнический музей, 3/4, Новая площадь, 9, Тверской район, Москва, Центральный федеральный округ, 109012, Россия"
+  },
+  "Peopleware, Speditionstraße 5, 40221 Düsseldorf, Germany": {
+    "lat": 51.2143336,
+    "lon": 6.7494335,
+    "address": "5, Speditionstraße, Hafen, Stadtbezirk 3, Düsseldorf, Nordrhein-Westfalen, 40221, Deutschland"
+  },
+  "Faculty of Computer Science, Bingen Technical University of Applied Sciences, 55411 Bingen, Germany": null,
+  "SanJose": {
+    "lat": 11.9923308,
+    "lon": 75.7307047,
+    "address": "Sanjose, Sanjose Road, Edoor, Iritty, Kannur, Kerala, 670704, India"
+  },
+  "International Hellenic University": {
+    "lat": 40.5368819,
+    "lon": 23.0088825,
+    "address": "International Hellenic University, Θεσσαλονίκη - Νέα Μουδανιά, Θέρμη, Δήμος Θέρμης, Μητροπολιτική Ενότητα Θεσσαλονίκης, Περιφέρεια Κεντρικής Μακεδονίας, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, 570 01, Ελλάς"
+  },
+  "Mumbai University": {
+    "lat": 16.9956538,
+    "lon": 73.3301397,
+    "address": "Mumbai University, Hathkambe Ratnagiri Road; Mumbai Ratnagiri Highway, Nachane, Ratnagiri Taluka, Ratnagiri, Maharashtra, 415639, India"
+  },
+  "Shanghai University of Traditional Chinese Medicine": null,
+  "Northeastern University, Boston": {
+    "lat": 42.3351065,
+    "lon": -71.0892575,
+    "address": "Northeastern University, 360, Huntington Avenue, Fenway, Boston, Suffolk County, Massachusetts, 02115, United States"
+  },
+  "University Malaya": {
+    "lat": 3.1600672,
+    "lon": 101.69134,
+    "address": "International University of Malaya-Wales, Jalan Tun Ismail, Sentul, Kuala Lumpur, 50350, Malaysia"
+  },
+  "Rajagiri School of Engineering & Technology": {
+    "lat": 9.9931165,
+    "lon": 76.3580901,
+    "address": "Rajagiri School of Engineering & Technology, Rajagiri College Road, Ernakulam, Kanayannur, Ernakulam, Kerala, 682037, India"
+  },
+  "Cochin University of Science & Technology": {
+    "lat": 10.0452701,
+    "lon": 76.3261745,
+    "address": "Department of Ship Technology, Cochin University of Science and Technology, Pathadipalam, Kalamassery, Kanayannur, Ernakulam, Kerala, 682022, India"
+  },
+  "Khmelnytskyi National University": null,
+  "Taras Shevchenko National University of Kyiv": {
+    "lat": 50.3842474,
+    "lon": 30.4742873,
+    "address": "Київський національний університет імені Тараса Шевченка, Пейзажна алея, Старий Київ, Центр, Шевченківський район, Київ, 04053, Україна"
+  },
+  "V.M. Glushkov Institute of Cybernetics": null,
+  "Politecnico di Torino": {
+    "lat": 45.0636974,
+    "lon": 7.6575263,
+    "address": "Politecnico di Torino, Corso Peschiera, Cenisia, Circoscrizione 3, Torino, Piemonte, 10129, Italia"
+  },
+  "King's College London": {
+    "lat": 51.5030855,
+    "lon": -0.0900021,
+    "address": "Hodgkin Building, Tennis Street, Borough Market, Bermondsey Village, The Borough, London Borough of Southwark, Greater London, England, SE1 1YX, United Kingdom"
+  },
+  "Fasa University of Medical Sciences": null,
+  "National Center for Atmospheric Research": {
+    "lat": 39.9809413,
+    "lon": -105.2748622,
+    "address": "National Center for Atmospheric Research, Boulder, Boulder County, Colorado, United States"
+  },
+  "Colorado School of Mines": {
+    "lat": 39.7386338,
+    "lon": -105.2246389,
+    "address": "Colorado School of Mines, 1500, Illinois Street, Golden, Jefferson County, Colorado, 80401, United States"
+  },
+  "Texas State University": {
+    "lat": 29.8910885,
+    "lon": -97.9376214,
+    "address": "Texas State University, 601, University Drive, San Marcos, Hays County, Texas, 78666, United States"
+  },
+  "SLAC National Accelerator Laboratory": {
+    "lat": 37.4167876,
+    "lon": -122.2049266,
+    "address": "Stanford Linear Accelerator Center National Accelerator Laboratory, 2575, Sand Hill Road, Menlo Park, San Mateo County, California, 94025, United States"
+  },
+  "Stockholm University": {
+    "lat": 59.366141,
+    "lon": 18.059593,
+    "address": "Stockholms universitet, Frescativägen, Frescati, Norra Djurgården, Norra innerstadens stadsdelsområde, Stockholm, Stockholms kommun, Stockholms län, 106 91, Sverige"
+  },
+  "UMass Lowell": {
+    "lat": 42.6519097,
+    "lon": -71.3173628,
+    "address": "University of Massachusetts Lowell, School Street, Pawtucketville, Lowell, Middlesex County, Massachusetts, 01854, United States"
+  },
+  "Princeton Plasma Physics Laboratory": {
+    "lat": 40.3486652,
+    "lon": -74.6018379,
+    "address": "Princeton Plasma Physics Laboratory, 100, Stellarator Road, Princeton, Middlesex County, New Jersey, 08540, United States"
+  },
+  "Wuhan University, Wuhan": {
+    "lat": 30.5373773,
+    "lon": 114.361535,
+    "address": "武汉大学, 299, 八一路, 珞南街道, 洪山区, 武汉市, 湖北省, 430072, 中国"
+  },
+  "Auckland University of Technology": {
+    "lat": -36.8529871,
+    "lon": 174.76642,
+    "address": "Auckland University of Technology, Hikuwai Plaza, Learning Quarter, City Centre, Auckland, Waitematā, Auckland, 1010, New Zealand / Aotearoa"
+  },
+  "University of Auckland": {
+    "lat": -36.8660955,
+    "lon": 174.7737331,
+    "address": "Waipapa Taumata Rau / University of Auckland, Lorne Street, Aotea Arts Quarter, City Centre, Auckland, Waitematā, Auckland, 1010, New Zealand / Aotearoa"
+  },
+  "North Carolina State University at Raleigh": null,
+  "University of Maryland College Park": {
+    "lat": 38.9904124,
+    "lon": -76.9438586,
+    "address": "University of Maryland, College Park, Physics Ellipse Drive, Riverdale Park Station, Riverdale Park, Prince George's County, Maryland, 20742, United States"
+  },
+  "Stevens Institute of Technology": {
+    "lat": 40.7448096,
+    "lon": -74.0252392,
+    "address": "Stevens Institute of Technology, 1, Castle Point Terrace, Uptown, Hoboken, Hudson County, New Jersey, 07030, United States"
+  },
+  "Clemson University": {
+    "lat": 34.6686916,
+    "lon": -82.8374348,
+    "address": "Clemson University, Perimeter Road, Pickens County, South Carolina, 29634, United States"
+  },
+  "University of Florida": {
+    "lat": 29.6411884,
+    "lon": -82.3562296,
+    "address": "University of Florida, Southwest 35th Place, Gainesville, Alachua County, Florida, 32611, United States"
+  },
+  "University of Bihac": null,
+  "Shanghai University of Medicine and Health Sciences": null,
+  "Ronin Institute": null,
+  "Princess Nourah bint Abdulrahman University": null,
+  "Northern Border University": null,
+  "Institute of High Performance Computing, A*STAR, Singapore": {
+    "lat": 1.2987334,
+    "lon": 103.7871933,
+    "address": "Institute of High Performance Computing, Ayer Rajah Avenue, One North, Fusionopolis, Queenstown, Central Region, Singapore, 138647, Singapore"
+  },
+  "Washington State University": {
+    "lat": 46.7337716,
+    "lon": -117.1498035,
+    "address": "Washington State University, 150, East Spring Street, Ward 3, Pullman, Whitman County, Washington, 99164, United States"
+  },
+  "University of Nebraska-Lincoln": {
+    "lat": 40.8305567,
+    "lon": -96.6697373,
+    "address": "University of Nebraska - Lincoln (East Campus), 2000, North 33rd Street, Clinton, Lincoln, Lancaster County, Nebraska, 68503, United States"
+  },
+  "China Construction Bank": {
+    "lat": 51.5153765,
+    "lon": -0.0848275,
+    "address": "China Construction Bank, 111, Old Broad Street, Leadenhall Market, Bishopsgate, City of London, Greater London, England, EC2N 1FP, United Kingdom"
+  },
+  "Tahri Mohammed University": null,
+  "Salhi Ahmed University Center": null,
+  "Zhengzhou University": {
+    "lat": 34.8214567,
+    "lon": 113.5297412,
+    "address": "郑州大学, 西四环辅路, 双桥街道, 中原区, 郑州市, 河南省, 中国"
+  },
+  "Illumina Inc": null,
+  "Technical University of Munich": {
+    "lat": 48.2654976,
+    "lon": 11.6692249,
+    "address": "Technische Universität München, Am Coulombwall, Hochschul- und Forschungszentrum, Garching bei München, Landkreis München, Bayern, 85748, Deutschland"
+  },
+  "Oakland University, Rochester, Michigan": {
+    "lat": 42.6666333,
+    "lon": -83.2065575,
+    "address": "Oakland University, 201, Meadow Brook Road, Bellarmine Hills, Rochester, Oakland County, Michigan, 48309, United States"
+  },
+  "University of Chinese Academy of Sciences, Beijing, China": {
+    "lat": 39.907697,
+    "lon": 116.2440577,
+    "address": "中国科学院大学（玉泉路校区）, 19号甲, 玉泉路, 老山街道, 石景山区, 北京市, 100049, 中国"
+  },
+  "Shenzhen Loop Area Institute The Chinese University of Hong Kong, Shenzhen": null,
+  "University of Chinese Academy of Sciences Beijing, China": {
+    "lat": 39.907697,
+    "lon": 116.2440577,
+    "address": "中国科学院大学（玉泉路校区）, 19号甲, 玉泉路, 老山街道, 石景山区, 北京市, 100049, 中国"
+  },
+  "Instituto de Computação - Universidade Estadual de Campinas": null,
+  "Para Federal University": {
+    "lat": -1.4677334,
+    "lon": -48.4435021,
+    "address": "Universidade Federal do Pará, Rua 6 de Setembro, Universitário, Entroncamento, Belém, Pará, Região Norte, 66079-420, Brasil"
+  },
+  "INCT-Petroleum Geophysics": null,
+  "Rensselaer Polytechnic Institute": {
+    "lat": 42.7298969,
+    "lon": -73.6796678,
+    "address": "Rensselaer Polytechnic Institute, 110, 8th Street, The Hill, City of Troy, Rensselaer County, New York, 12180, United States"
+  },
+  "Rochester University": {
+    "lat": 43.129864,
+    "lon": -77.628784,
+    "address": "University of Rochester River Campus, Cottage Street, Plymouth-Exchange, City of Rochester, Monroe County, New York, 14611, United States"
+  },
+  "Xian University of Posts and Telecommunications": {
+    "lat": 32.1152716,
+    "lon": 118.9259566,
+    "address": "南京邮电大学（仙林校区）, 9, 文苑路, 仙林大学城, 仙林街道, 栖霞区, 南京市, 江苏省, 210023, 中国"
+  },
+  "University of North Carolina at Charlotte": null,
+  "University of Delaware": {
+    "lat": 39.6802837,
+    "lon": -75.7530984,
+    "address": "University of Delaware, Chambers Street, Newark, New Castle County, Delaware, 19716, United States"
+  },
+  "University of Ulster": {
+    "lat": 41.7385034,
+    "lon": -74.0857893,
+    "address": "State University of New York at New Paltz, Plattekill Avenue, Village of New Paltz, Town of New Paltz, Ulster County, New York, 12561, United States"
+  },
+  "VIZJA University": {
+    "lat": 52.2504669,
+    "lon": 20.9785794,
+    "address": "Uniwersytet VIZJA, 59, Okopowa, Powązki, Wola, Warszawa, województwo mazowieckie, 01-043, Polska"
+  },
+  "Symbiosis International (Deemed University)": {
+    "lat": 18.5759161,
+    "lon": 73.9087966,
+    "address": "Symbiosis International, Symbiosis Law School Road, Ward 6, Pune, Pune City Subdistrict, Pune, Maharashtra, 411001, India"
+  },
+  "Shanghai Aerospace Electronic Technology Institute": null,
+  "University of Utah": {
+    "lat": 40.7628137,
+    "lon": -111.8368719,
+    "address": "University of Utah, 201, Presidents Circle, Salt Lake City, Salt Lake County, Utah, 84112, United States"
+  },
+  "University of Shanghai for Science and Technology": {
+    "lat": 31.2950161,
+    "lon": 121.5506739,
+    "address": "上海理工大学, 军工路 516 弄, 上理小区, 长白新村街道, 杨浦区, 上海市, 200090, 中国"
+  },
+  "Tianjin University": {
+    "lat": 39.1072533,
+    "lon": 117.1778919,
+    "address": "天津医科大学, 22号, 气象台路, 新兴街道, 海光寺, 和平区, 天津市, 300051, 中国"
+  },
+  "Information Processing and Telecommunications Center (IPTC), Escuela Técnica Superior de Ingeniería de Telecomunicación, Universidad Politécnica de Madrid": {
+    "lat": 40.5473558,
+    "lon": -3.6918341,
+    "address": "Escuela Politécnica Superior, Calle Marie Curie, El Goloso, Fuencarral-El Pardo, Madrid, Comunidad de Madrid, 28049, España"
+  },
+  "University of Electronic Science and Technology": null,
+  "Northeastern University": {
+    "lat": 42.3351065,
+    "lon": -71.0892575,
+    "address": "Northeastern University, 360, Huntington Avenue, Back Bay, Boston, Suffolk County, Massachusetts, 02115, United States"
+  },
+  "ETH Zurich": {
+    "lat": 47.413218,
+    "lon": 8.5374914,
+    "address": "ETH Zürich, 130, Binzmühlestrasse, Oerlikon, Kreis 11, Zürich, Bezirk Zürich, Zürich, 8050, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "Microsoft Iberica, Madrid, Spain": {
+    "lat": 40.4183279,
+    "lon": -3.7980398,
+    "address": "Microsoft Ibérica, Paseo de la Finca, Somosaguas Sur, Húmera, Pozuelo de Alarcón, Comunidad de Madrid, 28223, España"
+  },
+  "Rebellions Inc., Seongnam-si, Republic of Korea": {
+    "lat": 36.638392,
+    "lon": 127.6961188,
+    "address": "대한민국"
+  },
+  "Google, Mountain View": {
+    "lat": 37.419001,
+    "lon": -122.082376,
+    "address": "Google, Mountain View, Santa Clara County, California, United States"
+  },
+  "Georgia Institute of Technology, Atlanta": {
+    "lat": 33.7760948,
+    "lon": -84.3988077,
+    "address": "Georgia Tech, Tech Parkway Northwest, Howell Station, Bankhead, Atlanta, Fulton County, Georgia, 30332, United States"
+  },
+  "New Jersey Institute of Technology": {
+    "lat": 40.7421254,
+    "lon": -74.1790316,
+    "address": "New Jersey Institute of Technology, Dr. Martin Luther King Jr. Boulevard, The Ironbound, Newark, Essex County, New Jersey, 07102, United States"
+  },
+  "University of the Peloponnese, Tripoli, Greece": {
+    "lat": 37.5271168,
+    "lon": 22.3716537,
+    "address": "Πανεπιστήμιο Πελοποννήσου, Καραϊσκάκη, Σέχι, Κοινότητα Τριπόλεως, Δημοτική Ενότητα Τρίπολης, Δήμος Τρίπολης, Περιφερειακή Ενότητα Αρκαδίας, Περιφέρεια Πελοποννήσου, Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου, 221 00, Ελλάς"
+  },
+  "University of Texas, Arlington": {
+    "lat": 32.7284713,
+    "lon": -97.1120213,
+    "address": "The University of Texas at Arlington, 701, South Nedderman Drive, Arlington, Tarrant County, Texas, 76013, United States"
+  },
+  "University of Strasbourg, Strasbourg, France": {
+    "lat": 48.5817042,
+    "lon": 7.7646555,
+    "address": "Institut National des Sciences Appliquées, 24, Boulevard de la Victoire, Esplanade, Bourse-Esplanade-Krutenau, Strasbourg, Bas-Rhin, Collectivité européenne d'Alsace, Grand Est, France métropolitaine, 67000, France"
+  },
+  "European Council for Nuclear Research (CERN), Geneva, Switzerland": null,
+  "UCLouvain, Ottignies?Louvain?la?Neuve, Belgium": {
+    "lat": 50.669841,
+    "lon": 4.601382,
+    "address": "Service des Sports UCLouvain, 11, Place des Sports, L'Hocaille, Louvain-la-Neuve, Ottignies-Louvain-la-Neuve, Nivelles, Brabant wallon, Wallonie, 1348, België / Belgique / Belgien"
+  },
+  "Xian Jiaotong University": {
+    "lat": 34.2476753,
+    "lon": 108.9789725,
+    "address": "西安交通大学兴庆校区, 28, 咸宁西路, 曹家巷社区, 东关南街街道, 碑林区, 西安市, 陕西省, 710049, 中国"
+  },
+  "Griffith University, Brisbane, Australia": {
+    "lat": -27.5466249,
+    "lon": 153.0642922,
+    "address": "Griffith University, Pacific Motorway, Mount Gravatt, Brisbane, Queensland, 4122, Australia"
+  },
+  "Oakland University": {
+    "lat": 42.6666333,
+    "lon": -83.2065575,
+    "address": "Oakland University, 201, Meadow Brook Road, Rochester, Oakland County, Michigan, 48309, United States"
+  },
+  "Illumina": {
+    "lat": 32.8704227,
+    "lon": -117.1982623,
+    "address": "Illumina, University City, San Diego, San Diego County, California, United States"
+  },
+  "Beijing University of Posts and Telecommunications": {
+    "lat": 39.9642,
+    "lon": 116.351,
+    "address": "Beijing, China"
+  },
+  "Brookhaven National Laboratory": {
+    "lat": 40.8699,
+    "lon": -72.8773,
+    "address": "Upton, Long Island, New York, United States"
+  },
+  "Brooklyn College, CUNY": {
+    "lat": 40.6313,
+    "lon": -73.9529,
+    "address": "Brooklyn, New York, United States"
+  },
+  "Carnegie Mellon University": {
+    "lat": 40.4432,
+    "lon": -79.9428,
+    "address": "Pittsburgh, Pennsylvania, United States"
+  },
+  "Central Research Institute, 2012 Labs, Huawei Tech. Co. Ltd": {
+    "lat": 22.546,
+    "lon": 113.942,
+    "address": "Shenzhen, Guangdong, China"
+  },
+  "China University of Petroleum-Beijing": {
+    "lat": 40.0009,
+    "lon": 116.326,
+    "address": "Beijing, China"
+  },
+  "Ewha Womans University": {
+    "lat": 37.5628,
+    "lon": 126.9469,
+    "address": "Seoul, South Korea"
+  },
+  "Heilongjiang University, Harbin, China": {
+    "lat": 45.7683,
+    "lon": 126.5699,
+    "address": "Harbin, Heilongjiang, China"
+  },
+  "IFP Energies Nouvelles, Rueil-Malmaison, France": {
+    "lat": 48.8789,
+    "lon": 2.1897,
+    "address": "Rueil-Malmaison, Île-de-France, France"
+  },
+  "JPMorgan Chase": {
+    "lat": 40.7545,
+    "lon": -73.9769,
+    "address": "New York, New York, United States"
+  },
+  "Kings College London": {
+    "lat": 51.5824264,
+    "lon": -0.4197117,
+    "address": "Kings College Road, London Borough of Hillingdon, Greater London, England, HA4 7JZ, United Kingdom"
+  },
+  "Los Alamos National Lab": {
+    "lat": 35.8816,
+    "lon": -106.2951,
+    "address": "Los Alamos, New Mexico, United States"
+  },
+  "Meta Platforms Inc.": {
+    "lat": 37.4851,
+    "lon": -122.1483,
+    "address": "Menlo Park, California, United States"
+  },
+  "Metax Research Institute, Nanjing, China": {
+    "lat": 32.0603,
+    "lon": 118.7969,
+    "address": "Nanjing, Jiangsu, China"
+  },
+  "Nanjing University": {
+    "lat": 32.1132,
+    "lon": 118.9015,
+    "address": "Nanjing, Jiangsu, China"
+  },
+  "Nanjing University of Information Science and Technology": {
+    "lat": 32.2059,
+    "lon": 118.7139,
+    "address": "Nanjing, Jiangsu, China"
+  },
+  "Kings College London": {
+    "lat": 51.5115,
+    "lon": -0.116,
+    "address": "London, England, United Kingdom"
+  },
+  "National Renewable Energy Laboratory": {
+    "lat": 39.7406,
+    "lon": -105.1686,
+    "address": "Golden, Colorado, United States"
+  },
+  "Shenzhen University of Advanced Technology": {
+    "lat": 22.5892,
+    "lon": 113.9718,
+    "address": "Shenzhen, Guangdong, China"
+  },
+  "Stanford University": {
+    "lat": 37.4275,
+    "lon": -122.1697,
+    "address": "Stanford, California, United States"
+  },
+  "Stony Brook University": {
+    "lat": 40.9149,
+    "lon": -73.1259,
+    "address": "Stony Brook, New York, United States"
+  },
+  "Thales, cortAIx Labs": {
+    "lat": 48.7264,
+    "lon": 2.2799,
+    "address": "Massy, Île-de-France, France"
+  },
+  "UMass Lowel": {
+    "lat": 42.6519,
+    "lon": -71.3174,
+    "address": "Lowell, Massachusetts, United States"
+  },
+  "Univ of Nebraska Omaha": {
+    "lat": 41.2565,
+    "lon": -96.0091,
+    "address": "Omaha, Nebraska, United States"
+  },
+  "University Of Bisha": {
+    "lat": 19.9942,
+    "lon": 42.6054,
+    "address": "Bisha, Asir, Saudi Arabia"
+  },
+  "University of California, Los Angeles": {
+    "lat": 34.0695,
+    "lon": -118.4452,
+    "address": "Los Angeles, California, United States"
+  },
+  "University of Chinese Academy of Sciences": {
+    "lat": 39.9077,
+    "lon": 116.2441,
+    "address": "Beijing, China"
+  },
+  "University of Dhaka": {
+    "lat": 23.7338,
+    "lon": 90.3956,
+    "address": "Dhaka, Bangladesh"
+  },
+  "University of Electronic Science and Technology of China": {
+    "lat": 30.75,
+    "lon": 103.9341,
+    "address": "Chengdu, Sichuan, China"
+  },
+  "University of Georgia": {
+    "lat": 33.9481,
+    "lon": -83.3773,
+    "address": "Athens, Georgia, United States"
+  },
+  "University of Maryland, College Park": {
+    "lat": 38.9904,
+    "lon": -76.9438,
+    "address": "College Park, Maryland, United States"
+  },
+  "University of Oulu, Oulu 90570, Finland": {
+    "lat": 65.0599,
+    "lon": 25.466,
+    "address": "Oulu, Finland"
+  },
+  "University of Peloponnese\nTripoli": {
+    "lat": 37.5271,
+    "lon": 22.3717,
+    "address": "Tripoli, Peloponnese, Greece"
+  },
+  "University of Peloponnese, Tripoli": {
+    "lat": 37.5271,
+    "lon": 22.3717,
+    "address": "Tripoli, Peloponnese, Greece"
+  },
+  "University of Science and Technology Beijing": {
+    "lat": 39.9889,
+    "lon": 116.3574,
+    "address": "Beijing, China"
+  },
+  "University of Southampton": {
+    "lat": 50.9338,
+    "lon": -1.3958,
+    "address": "Southampton, England, United Kingdom"
+  },
+  "University of Texas at Arlington": {
+    "lat": 32.7284,
+    "lon": -97.112,
+    "address": "Arlington, Texas, United States"
+  },
+  "University of Washington": {
+    "lat": 47.6553,
+    "lon": -122.3035,
+    "address": "Seattle, Washington, United States"
+  },
+  "Universit? C?te d'Azur, CNRS, I3S, Sophia Antipolis,?France": {
+    "lat": 43.614,
+    "lon": 7.071,
+    "address": "Sophia Antipolis, Alpes-Maritimes, France"
+  },
+  "Universit? de Strasbourg": {
+    "lat": 48.5788,
+    "lon": 7.7622,
+    "address": "Strasbourg, Bas-Rhin, France"
+  },
+  "Zhejiang Gongshang University": {
+    "lat": 30.2841,
+    "lon": 120.1551,
+    "address": "Hangzhou, Zhejiang, China"
+  },
+  "Zhejiang University": {
+    "lat": 30.3073,
+    "lon": 120.0883,
+    "address": "Hangzhou, Zhejiang, China"
+  },
+  "Zhejiang University of Technology  ": {
+    "lat": 30.315,
+    "lon": 120.15,
+    "address": "Hangzhou, Zhejiang, China"
+  },
+  "Zhengzhou University of Light Industry": {
+    "lat": 34.7593,
+    "lon": 113.6609,
+    "address": "Zhengzhou, Henan, China"
+  },
+  "Université Côte d'Azur, CNRS, I3S, Sophia Antipolis, France": {
+    "lat": 43.7170132,
+    "lon": 7.2675774,
+    "address": "Parc Valrose - Université Côte d'Azur - Faculté des Sciences, Voie de desserte du Parc Lubonis, Parc Lubonis, Valrose, Cimiez, Nice, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France métropolitaine, 06108, France"
+  },
+  "Université de Strasbourg": {
+    "lat": 48.5820139,
+    "lon": 7.7667715,
+    "address": "Université, Boulevard de la Victoire, Esplanade, Bourse-Esplanade-Krutenau, Strasbourg, Bas-Rhin, Collectivité européenne d'Alsace, Grand Est, France métropolitaine, 67000, France"
+  },
+  "Zhejiang University of Technology": {
+    "lat": 30.5539441,
+    "lon": 120.0318536,
+    "address": "浙江工业大学（莫干山校区）, 红廊, 武康街道, 德清县, 湖州市, 浙江省, 313300, 中国"
+  }
+}

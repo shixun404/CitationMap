@@ -316,16 +316,24 @@ def count_citation_stats(coordinates_and_info: List[Tuple[str]]) -> List[int]:
     return num_authors, num_affiliations, num_countries
 
 def __fill_publication_metadata(pub):
-    time.sleep(random.uniform(1, 5))  # Random delay to reduce risk of being blocked.
-    return scholarly.fill(pub)
+    max_retries = 5
+    for attempt in range(max_retries):
+        try:
+            time.sleep(random.uniform(1, 3))
+            return scholarly.fill(pub)
+        except Exception:
+            if attempt < max_retries - 1:
+                time.sleep(random.uniform(10, 20))
+            else:
+                raise
 
 def __citing_authors_and_papers_from_publication(cites_id_and_cited_paper: Tuple[str, str]):
     cites_id, cited_paper_title = cites_id_and_cited_paper
     citing_paper_search_url = 'https://scholar.google.com/scholar?hl=en&cites=' + cites_id
     citing_authors_and_citing_papers = get_citing_author_ids_and_citing_papers(citing_paper_search_url)
     citing_author_paper_info = []
-    for citing_author_id, citing_paper_title in citing_authors_and_citing_papers:
-        citing_author_paper_info.append((citing_author_id, citing_paper_title, cited_paper_title))
+    for citing_author_id, author_name, citing_paper_title in citing_authors_and_citing_papers:
+        citing_author_paper_info.append((citing_author_id, author_name, citing_paper_title, cited_paper_title))
     return citing_author_paper_info
 
 def __affiliations_from_authors_conservative(citing_author_paper_info: str):
@@ -333,9 +341,9 @@ def __affiliations_from_authors_conservative(citing_author_paper_info: str):
     Conservative: only use Google Scholar verified organization.
     This will have higher precision and lower recall.
     '''
-    citing_author_id, citing_paper_title, cited_paper_title = citing_author_paper_info
+    citing_author_id, author_name, citing_paper_title, cited_paper_title = citing_author_paper_info
     if citing_author_id == NO_AUTHOR_FOUND_STR:
-        return (NO_AUTHOR_FOUND_STR, citing_paper_title, cited_paper_title, NO_AUTHOR_FOUND_STR)
+        return (author_name, citing_paper_title, cited_paper_title, NO_AUTHOR_FOUND_STR)
 
     time.sleep(random.uniform(1, 5))  # Random delay to reduce risk of being blocked.
     citing_author = scholarly.search_author_id(citing_author_id)
@@ -354,9 +362,9 @@ def __affiliations_from_authors_aggressive(citing_author_paper_info: str):
     Aggressive: use the self-reported affiliation string from the Google Scholar affiliation panel.
     This will have lower precision and higher recall.
     '''
-    citing_author_id, citing_paper_title, cited_paper_title = citing_author_paper_info
+    citing_author_id, author_name, citing_paper_title, cited_paper_title = citing_author_paper_info
     if citing_author_id == NO_AUTHOR_FOUND_STR:
-        return (NO_AUTHOR_FOUND_STR, citing_paper_title, cited_paper_title, NO_AUTHOR_FOUND_STR)
+        return (author_name, citing_paper_title, cited_paper_title, NO_AUTHOR_FOUND_STR)
 
     time.sleep(random.uniform(1, 5))  # Random delay to reduce risk of being blocked.
     citing_author = scholarly.search_author_id(citing_author_id)
@@ -480,7 +488,7 @@ def generate_citation_map(scholar_id: str,
             cache_path = os.path.join(cache_folder, scholar_id, 'all_citing_author_paper_tuple_list.pkl')
         else:
             cache_path = None
-
+        
         if cache_path is None or not os.path.exists(cache_path):
             print('No cache found for this author. Finding citing authors from scratch.\n')
 
@@ -503,7 +511,7 @@ def generate_citation_map(scholar_id: str,
             cache_path = os.path.join(cache_folder, scholar_id, 'author_paper_affiliation_tuple_list.pkl')
         else:
             cache_path = None
-
+        assert 0
         if cache_path is None or not os.path.exists(cache_path):
             print('No cache found for this author. Finding citing affiliations from scratch.\n')
 

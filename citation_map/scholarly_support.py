@@ -58,21 +58,41 @@ def get_html_per_citation_page(soup) -> List[str]:
 
     for result in soup.find_all('div', class_='gs_ri'):
         title_tag = result.find('h3', class_='gs_rt')
-        if title_tag:
-            paper_parsed = False
-            author_links = result.find_all('a', href=True)
-            title_text = title_tag.get_text()
-            title = title_text.replace('[HTML]', '').replace('[PDF]', '')
-            for link in author_links:
+        if not title_tag:
+            continue
+
+        title_text = title_tag.get_text()
+        title = title_text.replace('[HTML]', '').replace('[PDF]', '').strip()
+
+        gs_a = result.find('div', class_='gs_a')
+        authors_found = []
+
+        if gs_a:
+            # Collect authors with Google Scholar profiles.
+            gs_author_names = set()
+            for link in gs_a.find_all('a', href=True):
                 if 'user=' in link['href']:
                     author_id = link['href'].split('user=')[1].split('&')[0]
-                    citing_authors_and_citing_papers.append((author_id, title))
-                    paper_parsed = True
-            if not paper_parsed:
-                print("[WARNING!] Could not find author links for ", title)
-                citing_authors_and_citing_papers.append((NO_AUTHOR_FOUND_STR, title))
+                    author_name = link.text.strip()
+                    gs_author_names.add(author_name)
+                    authors_found.append((author_id, author_name))
+
+            # Collect authors without Google Scholar profiles from the plain text.
+            # The gs_a text format is "Name1, Name2, Name3 - Journal, Year - Publisher".
+            full_text = gs_a.get_text()
+            author_section = full_text.split(' - ')[0] if ' - ' in full_text else full_text
+            for name in author_section.split(','):
+                name = name.strip()
+                if name and name not in gs_author_names:
+                    authors_found.append((NO_AUTHOR_FOUND_STR, name))
+
+        if authors_found:
+            for author_id, author_name in authors_found:
+                citing_authors_and_citing_papers.append((author_id, author_name, title))
         else:
-            continue
+            print("[WARNING!] Could not find author links for ", title)
+            citing_authors_and_citing_papers.append((NO_AUTHOR_FOUND_STR, NO_AUTHOR_FOUND_STR, title))
+
     return citing_authors_and_citing_papers
 
 
